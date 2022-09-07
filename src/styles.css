@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    background-color: #e5e4e2;
+}
+
+.center {
+    margin: 2rem auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    line-height: 1.6
+}
+
+.grandparent {
+    min-width: 80px;
+    min-height: 80px;
+    padding: 30px;
+    border: 1px solid black;
+}
+
+.parent {
+    min-width: 80px;
+    min-height: 80px;
+    padding: 30px;
+    border: 1px solid black;
+}
+
+.child {
+    min-width: 80px;
+    min-height: 80px;
+    padding: 30px;
+    border: 1px solid black;
+    text-align: center;
+}
