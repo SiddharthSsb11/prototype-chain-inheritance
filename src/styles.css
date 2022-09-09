@@ -4,11 +4,12 @@ body {
 }
 
 .center {
-    margin: 2rem auto;
+    margin: 10rem auto;
     width: 50%;
     border: 3px solid green;
     padding: 10px;
-    line-height: 1.6
+    line-height: 1.6;
+    text-align: center;
 }
 
 .grandparent {
